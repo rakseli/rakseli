@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**rakseli/rakseli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 PhD student at University of Turku
 
-Here are some ideas to get you started:
+🤝 Member of [TurkuNLP](https://turkunlp.org/) and [IKITIK-group](https://sites.utu.fi/nursingscienceresearchprogrammes/connected-health-utu/collaborators-and-funding/ikitik/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently working with Clinical NLP and multimodal data
+
+### Contact
+✉️[Email](akseli.y.reunamo@utu.fi)
+
+[<img align="left" alt="orcid" width="20px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>][Orcid]Orcid
+
+[Orcid]:https://orcid.org/0000-0002-9057-6489
