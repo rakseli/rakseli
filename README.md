@@ -7,7 +7,7 @@
 🧠 Currently working with Clinical NLP and multimodal data
 
 ### Contact
-✉️      [Email](akseli.y.reunamo@utu.fi)
+      [✉️Email](mailto:akseli.y.reunamo@utu.fi)
 
 [<img align="left" alt="orcid" width="20px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>][Orcid]Orcid
 
